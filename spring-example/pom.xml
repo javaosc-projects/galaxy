@@ -16,7 +16,7 @@
 		
 		<spring.framework.version>5.3.4</spring.framework.version>
 		<org.aspectj.version>1.8.4</org.aspectj.version>
-		<apache.io.version>2.4</apache.io.version>
+		<apache.io.version>2.7</apache.io.version>
 		<apache.fileupload.version>1.3.3</apache.fileupload.version>
 		<fasterxml.jackson.version>2.12.2</fasterxml.jackson.version>
 
